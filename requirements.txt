@@ -88,8 +88,6 @@ pyee==8.2.2
 Pygments==2.13.0
 pyparsing==3.0.9
 pyppeteer==1.0.2
-pyquery==2.0.0
-python==3.10
 python-dateutil==2.8.2
 pytz==2022.5
 pywin32==304
